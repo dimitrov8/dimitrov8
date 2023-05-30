@@ -26,6 +26,6 @@
   </div>
 </div>
 <p align="center">
-  <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=dimitrov8&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="">
+  <img src="https://github-profile-trophy.vercel.app/?username=dimitrov8&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="">
 </p>
 <hr>
