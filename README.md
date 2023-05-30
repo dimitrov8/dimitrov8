@@ -15,7 +15,7 @@
 <div align="center">
   <h1 id="-github-stats-">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:</h1>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dimitrov8&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true" alt="">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dimitrov8&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true" alt="">
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimitrov8&amp;theme=tokyonight&amp;hide_border=false" alt="">
     <br>
@@ -26,6 +26,6 @@
   </div>
 </div>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dimitrov8&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="">
+  <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=dimitrov8&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="">
 </p>
 <hr>
