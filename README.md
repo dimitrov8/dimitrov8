@@ -19,7 +19,7 @@
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimitrov8&amp;theme=tokyonight&amp;hide_border=false" alt="">
     <br>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimitrov8&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true&amp;layout=compact" alt="">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimitrov8&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true&amp; alt="">
   </p>
   <div align="center">
     <h2 id="-github-trophies">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀</h2>
