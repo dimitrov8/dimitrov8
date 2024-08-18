@@ -5,32 +5,27 @@
 </p>
 
 <div align="center">
-  <h1 id="-about-me-">👤 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h1>
-  <p style="font-size: 25px">
-    Software developer dedicated to building robust, scalable applications. Most
-    of my work is centered around <strong>C#</strong> and <strong>.NET</strong>,
-    with additional skills in front-end technologies like
-    <strong>JavaScript</strong> and <strong>MSSQL</strong>. Feel free to explore
-    my projects or get in touch!
-  </p>
-</div>
-
-<div align="center">
-  <h1 id="-contact-">📫 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲:</h1>
+  <h1 id="-contact-">📫 Contact Me:</h1>
   <p>
     <a href="mailto:dimitrov.code@gmail.com">
       <img
         src="https://skillicons.dev/icons?i=gmail&theme=light"
         alt="Gmail"
-        style="vertical-align: middle; height: 30px"
+        style="vertical-align: middle; height: 30px; margin-right: 10px"
       />
-      <strong style="font-size: 25px">dimitrov.code@gmail.com</strong>
+      <strong>dimitrov.code@gmail.com</strong>
     </a>
+  </p>
+  <p>
+    Feel free to get in touch for new projects, collaborations, or discussions
+    on technology. Whether you’re seeking a collaborator for your next project
+    or want to dive into the latest trends in development, don’t hesitate to
+    reach out.
   </p>
 </div>
 
 <div align="center">
-  <h1 id="-github-stats-">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:</h1>
+  <h1 id="-github-stats-">📊 GitHub Stats:</h1>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
@@ -52,14 +47,5 @@
         alt="Top Languages"
       />
     </a>
-  </p>
-  <div align="center">
-    <h2 id="-github-trophies">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀</h2>
-  </div>
-  <p align="center">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=dimitrov8&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"
-      alt="GitHub Trophies"
-    />
   </p>
 </div>
