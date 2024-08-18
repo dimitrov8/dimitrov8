@@ -7,10 +7,12 @@
 <div align="center">
   <h1 id="-about-me-">🚀 About Me:</h1>
   <p>
-    Software developer dedicated to building robust, scalable applications. My
-    expertise is centered around C# and .NET for backend development, with
-    additional skills in JavaScript for front-end work and MSSQL for database
-    management. Feel free to explore my projects or get in touch!
+    <strong>Software developer</strong> dedicated to building robust, scalable
+    applications. My expertise is centered around <strong>C#</strong> and
+    <strong>.NET</strong> for backend development, with additional skills in
+    <strong>JavaScript</strong> for front-end work and
+    <strong>MSSQL</strong> for database management. Feel free to explore my
+    projects or get in touch!
   </p>
 </div>
 
@@ -28,9 +30,9 @@
   </p>
   <p>
     Feel free to get in touch for new projects, collaborations, or discussions
-    on technology. Whether you’re seeking a collaborator for your next project
-    or want to dive into the latest trends in development, don’t hesitate to
-    reach out.
+    on technology. Whether you’re seeking a <strong>collaborator</strong> for
+    your next project or want to dive into the latest trends in development,
+    don’t hesitate to reach out.
   </p>
 </div>
 
