@@ -4,30 +4,20 @@
   </a>
 </p>
 
+<hr />
+
 <div align="center">
   <h1 id="-about-me-">👤 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h1>
   <p style="font-size: 25px">
     Software developer dedicated to building robust, scalable applications. Most
-    of my work is centered around
-    <img
-      src="https://skillicons.dev/icons?i=cs"
-      alt="C#"
-      style="vertical-align: middle; height: 25px"
-    />
-    and
-    <img
-      src="https://skillicons.dev/icons?i=dotnet"
-      alt=".NET"
-      style="vertical-align: middle; height: 25px"
-    />
-    , with additional skills in front-end technologies like
-    <img
-      src="https://skillicons.dev/icons?i=js"
-      alt="JavaScript"
-      style="vertical-align: middle; height: 25px"
-    />. Feel free to explore my projects or get in touch!
+    of my work is centered around <strong>C#</strong> and <strong>.NET</strong>,
+    with additional skills in front-end technologies like
+    <strong>JavaScript</strong> and <strong>MSSQL</strong>. Feel free to explore
+    my projects or get in touch!
   </p>
 </div>
+
+<hr />
 
 <div align="center">
   <h1 id="-contact-">📫 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲:</h1>
@@ -42,6 +32,8 @@
     </a>
   </p>
 </div>
+
+<hr />
 
 <div align="center">
   <h1 id="-github-stats-">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:</h1>
