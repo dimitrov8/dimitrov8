@@ -1,32 +1,81 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,net,js,css,git" />
+  </a>
+</p>
+
 <div align="center">
-  <h1 id="-tech-stack-">
-    <img src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" width="30px" height="22px"> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 <img src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" width="30px" height="22px">
-  </h1>
-  <p>
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL">
+  <h1 id="-about-me-">👤 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h1>
+  <p style="font-size: 25px">
+    Software developer dedicated to building robust, scalable applications. Most
+    of my work is centered around
+    <img
+      src="https://skillicons.dev/icons?i=cs"
+      alt="C#"
+      style="vertical-align: middle; height: 25px"
+    />
+    and
+    <img
+      src="https://skillicons.dev/icons?i=dotnet"
+      alt=".NET"
+      style="vertical-align: middle; height: 25px"
+    />
+    , with additional skills in front-end technologies like
+    <img
+      src="https://skillicons.dev/icons?i=js"
+      alt="JavaScript"
+      style="vertical-align: middle; height: 25px"
+    />. Feel free to explore my projects or get in touch!
   </p>
+</div>
+
+<div align="center">
+  <h1 id="-contact-">📫 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲:</h1>
   <p>
-    <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dimitrov8&icon=2&color=6" alt="">
+    <a href="mailto:dimitrov.code@gmail.com">
+      <img
+        src="https://skillicons.dev/icons?i=gmail&theme=light"
+        alt="Gmail"
+        style="vertical-align: middle; height: 30px"
+      />
+      <strong style="font-size: 25px">dimitrov.code@gmail.com</strong>
     </a>
   </p>
 </div>
+
 <div align="center">
   <h1 id="-github-stats-">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:</h1>
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dimitrov8&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true" alt="">
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimitrov8&amp;theme=tokyonight&amp;hide_border=false" alt="">
-    <br>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimitrov8&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true&amp" alt="">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=dimitrov8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&card_width=495"
+        alt="GitHub Stats"
+      />
+    </a>
+    <br />
+    <a href="https://git.io/streak-stats">
+      <img
+        src="https://streak-stats.demolab.com/?user=dimitrov8&theme=tokyonight&hide_border=false&card_width=495"
+        alt="Streak Stats"
+      />
+    </a>
+    <br />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimitrov8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&card_width=495"
+        alt="Top Languages"
+      />
+    </a>
   </p>
   <div align="center">
     <h2 id="-github-trophies">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀</h2>
   </div>
+  <p align="center">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=dimitrov8&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"
+      alt="GitHub Trophies"
+    />
+  </p>
 </div>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dimitrov8&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="">
-</p>
-<hr>
+
+<hr />
