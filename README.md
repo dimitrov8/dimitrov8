@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<hr />
-
 <div align="center">
   <h1 id="-about-me-">👤 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h1>
   <p style="font-size: 25px">
@@ -16,8 +14,6 @@
     my projects or get in touch!
   </p>
 </div>
-
-<hr />
 
 <div align="center">
   <h1 id="-contact-">📫 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲:</h1>
@@ -32,8 +28,6 @@
     </a>
   </p>
 </div>
-
-<hr />
 
 <div align="center">
   <h1 id="-github-stats-">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:</h1>
@@ -69,5 +63,3 @@
     />
   </p>
 </div>
-
-<hr />
