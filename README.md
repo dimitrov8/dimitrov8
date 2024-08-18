@@ -6,12 +6,11 @@
 
 <div align="center">
   <h1 id="-about-me-">🚀 About Me:</h1>
-  <p style="font-size: 25px">
-    Software developer dedicated to building robust, scalable applications. Most
-    of my work is centered around <strong>C#</strong> and <strong>.NET</strong>,
-    with additional skills in front-end technologies like
-    <strong>JavaScript</strong> and <strong>MSSQL</strong>. Feel free to explore
-    my projects or get in touch!
+  <p>
+    Software developer dedicated to building robust, scalable applications. My
+    expertise is centered around C# and .NET for backend development, with
+    additional skills in JavaScript for front-end work and MSSQL for database
+    management. Feel free to explore my projects or get in touch!
   </p>
 </div>
 
