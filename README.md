@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,net,js,css,git" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,net,sqlserver,js,css,git" />
   </a>
 </p>
 
